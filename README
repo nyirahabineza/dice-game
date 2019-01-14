@@ -1,5 +1,5 @@
-Portfolio
-personnel website, le 12/12/2018
+#Portfolio
+personnel website, le 14/01/2019
 By {List of contributors}
 Description
 purpose for the project is to create a personnel website, using html and css and host it using github
@@ -18,8 +18,8 @@ html for the structure css for the desin github for the host
 Support and contact details
 need for the help?please contact me on habcecile.@gmail.com
 
-License
-Copyright (c) 2018 nyirahabineza
+
+Copyright (c) 2019 nyirahabineza
 
 
 
@@ -32,7 +32,7 @@ Copyright (c) 2018 nyirahabineza
 
 
 
-GAME RULES:
+#GAME RULES:
 
 - The game has 2 players, playing in rounds
 - In each turn, a player rolls a dice as many times as he whishes. Each result get added to his ROUND score
