@@ -1,36 +1,14 @@
-#Portfolio
-personnel website, le 14/01/2019
-By {List of contributors}
-Description
-purpose for the project is to create a personnel website, using html and css and host it using github
 
-Setup/Installation Requirements
-to access it need to have computer or smart phone
-to have bundle for accessing internet
-the link for the page is nyirahabineza.github.io/furayideyi
-thank you for visiting my website
-Known Bugs
-all thing is done
+project name
+pig dice
 
-Technologies Used
-html for the structure css for the desin github for the host
+date 14/01/2019
 
-Support and contact details
-need for the help?please contact me on habcecile.@gmail.com
+By nyirahabineza cecile
 
-License
-Copyright (c) 2019 nyirahabineza
-
-
-
-
-
-
-
-
-
-
-
+#Description
+ this a pig dice-project.that helps review what we understood in the Javascript lesson. 
+it also  help the people to play game aand the game  is two people that rare required to play it.
 
 #GAME RULES:
 
@@ -39,3 +17,18 @@ Copyright (c) 2019 nyirahabineza
 - BUT, if the player rolls a 1, all his ROUND score gets lost. After that, it's the next player's turn
 - The player can choose to 'Hold', which means that his ROUND score gets added to his GLBAL score. After that, it's the next player's turn
 - The first player to reach 100 points on GLOBAL score wins the game
+
+
+# Technologies Used
+html
+style.css
+javascripts
+README.md
+
+Support and contact details
+
+number the tel:0782136949
+email:habcecile@gmail.com
+
+License
+  {year:2019} nyirahabineza cecile
